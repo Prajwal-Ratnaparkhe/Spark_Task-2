@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Banking App (Spark)</string>
+    <string name="prajwal_ratnaparkhe">Prajwal Ratnaparkhe</string>
+    <string name="developed_by">Developed by - </string>
+    <string name="basic_banking_system">SPARK-BASIC BANKING SYSTEM</string>
+    <string name="view_users">Proceed To Transaction</string>
+</resources>
